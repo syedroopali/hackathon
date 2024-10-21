@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { IoIosMenu } from "react-icons/io";
 import { RiMenuFill } from "react-icons/ri";
 
 const links = [

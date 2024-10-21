@@ -19,7 +19,7 @@ export default function Featured() {
               Apple AirPods <strong className="font-medium">Max</strong>
             </h2>
             <p className="text-[#909090] font-base">
-              Computational audio. Listen, it's powerful
+              Computational audio. Listen, it&apos;s powerful
             </p>
           </div>
         </div>
